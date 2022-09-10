@@ -1,0 +1,34 @@
+input {
+    background-color:rgba(0, 0, 0, 0.75);
+    color: rgba(255, 255, 255, 0.9);
+    border: 0;
+    outline: none;
+    border-radius: 3px;
+    width: 100;
+    height: 50px;
+    font-size: 20px;
+    float: left;
+    margin-right: 3px;
+}
+
+.btn {
+    background-color:rgba(0, 0, 0, 0.75);
+    color: rgba(255, 255, 255, 0.9);
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    border-radius: 3px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    float: right;
+    float: left;
+    margin-right: 3px;
+  }
+  body{
+    /* background-repeat : 반복조절 */
+    background-image: url('campus_1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  /*   background-position: top; */
+  }
